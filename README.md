@@ -45,4 +45,6 @@ Nrvoting aims to become the benchmark application in the private voting-dapp-pri
     npm run dev
 
 
+Go to  http://you-ip:5173
+
 
