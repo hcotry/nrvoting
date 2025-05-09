@@ -1,4 +1,4 @@
-
+![Nrvoting](nrvoting.jpg)
 # Nrvoting: Redefining On-Chain Democracy – The Next-Generation Private Voting DApp Powered by Noir
 ## Introduction:
 In an increasingly digital world, the demand for transparent, secure, and privacy-preserving voting mechanisms is paramount for building trustworthy digital societies. Traditional on-chain voting systems often struggle to balance transparency with essential voter privacy. Enter Nrvoting – not just another voting application, but a revolutionary exploration of how on-chain governance and individual privacy rights can harmoniously coexist.
