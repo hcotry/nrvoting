@@ -31,6 +31,21 @@ Nrvoting aims to become the benchmark application in the private voting-dapp-pri
 
 
 # How to run
+
+    sudo apt-get update
+    sudo apt-get install -y build-essential
+
+    run local sandbox:
+    bash -i <(curl -s https://install.aztec.network)
+    aztec-up alpha-testnet
+    aztec start --sandbox
+
+    show test accounts:
+    aztec-wallet import-test-accounts
+
+
+    install the Nrvoting:
+    
     git clone https://github.com/hcotry/nrvoting.git
     npm install
 
